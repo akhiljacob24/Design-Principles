@@ -1,1 +1,2 @@
-# EEE3088F Design Principles - Motor Driver Project
+# EEE3088F Design Principles 
+# Motor Driver PiHAT Project
